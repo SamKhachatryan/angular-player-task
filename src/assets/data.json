@@ -1,0 +1,306 @@
+{
+	"title": "Alphabet: Sound and letter",
+	"help": "<p>  <!--StartFragment--><span style=\"color: rgb(17, 17, 17); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Listen and practice.</span><!--EndFragment--></p>",
+	"info": "<p>The Armenian alphabet was created in the 5th century by the famous scientist and translator Mesrop Mashtots (404-406). The original alphabet had only 36 letters. Later, three more characters were added: O [o], Ֆ [f] and և (yev).</p><p><span style=\"color: rgb(17, 17, 17); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><span></span></span></p><!--EndFragment--><p>  </p><p><br></p>",
+	"page": [{
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/a_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/a.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/A.mp4",
+				"text": "Ա ա",
+				"text_trans": "/a/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/1.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/1.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/1.mp4",
+				"text": "<p><font color=\"#c10300\">ա</font>րև</p>",
+				"text_trans": "<p>/arev/ sun</p>"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/a_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/a.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/A.mp4",
+				"text": "Ա ա",
+				"text_trans": "/a/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/2.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/2.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/2.mp4",
+				"text": "<p><font color=\"#c10300\">ա</font>ռ<font color=\"#c10300\">ա</font>վոտ</p>",
+				"text_trans": "<p>/aravot/ morning</p>"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/a_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/a.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/A.mp4",
+				"text": "Ա ա",
+				"text_trans": "/a/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/3.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/3.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/3.mp4",
+				"text": "<p><font color=\"#c10300\">ա</font>նուն</p>",
+				"text_trans": "<p>/anun/ name</p>"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/u_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/ու.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/U.mp4",
+				"text": "Ու ու",
+				"text_trans": "/u/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/4.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/4.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/4.mp4",
+				"text": "<p><font color=\"#c10300\">ու</font>ս<font color=\"#c10300\">ու</font>ցիչ</p>",
+				"text_trans": "<p>/usutsich/ teacher</p>"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/u_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/ու.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/U.mp4",
+				"text": "Ու ու",
+				"text_trans": "/u/ "
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/5.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/5.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/5.mp4",
+				"text": "<font color=\"#c10300\">ու</font>րախ",
+				"text_trans": "/urakh/ glad"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/u_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/ու.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/U.mp4",
+				"text": "Ու ու",
+				"text_trans": "/u/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/6.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/6.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/6.mp4",
+				"text": "<font color=\"#c10300\">ու</font>տել",
+				"text_trans": "/utel/ to eat"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/s_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/s.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/S.mp4",
+				"text": "Ս ս",
+				"text_trans": "/s/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/7.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/7.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/7.mp4",
+				"text": "<p><font color=\"#c10300\">ս</font>ենյակ</p>",
+				"text_trans": "/senyak/ room"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/s_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/s.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/S.mp4",
+				"text": "Ս ս",
+				"text_trans": "/s/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/8.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/8.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/8.mp4",
+				"text": "<p><font color=\"#c10300\">ս</font>եղան</p>",
+				"text_trans": "/seghan/ table"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/s_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/s.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/S.mp4",
+				"text": "Ս ս",
+				"text_trans": "/s/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/9.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/9.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/9.mp4",
+				"text": "<p><font color=\"#c10300\">ս</font>առնարան</p>",
+				"text_trans": "/sarnaran/ fridge"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/r_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/r.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/R.mp4",
+				"text": "Ր ր",
+				"text_trans": "/r/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/10.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/10.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/10.mp4",
+				"text": "<p><font color=\"#c10300\">ր</font>ոպե</p>",
+				"text_trans": "/rope/ minute"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/r_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/r.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/R.mp4",
+				"text": "Ր ր",
+				"text_trans": "/r/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/11.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/11.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/11.mp4",
+				"text": "<p>ե<font color=\"#c10300\">ր</font>եխա</p>",
+				"text_trans": "/yerekha/ child"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/r_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/r.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/R.mp4",
+				"text": "Ր ր",
+				"text_trans": "/r/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/12.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/12.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/12.mp4",
+				"text": "<p>գի<font color=\"#c10300\">ր</font>ք</p>",
+				"text_trans": "/girk/ book"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/t_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/t.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/T.mp4",
+				"text": "Տ տ",
+				"text_trans": "/t/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/13.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/13.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/13.mp4",
+				"text": "<p><font color=\"#c10300\">տ</font>ուն</p>",
+				"text_trans": "/tun/ house"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/t_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/t.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/T.mp4",
+				"text": "Տ տ",
+				"text_trans": "/t/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/14.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/14.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/14.mp4",
+				"text": "<p><font color=\"#c10300\">տ</font>ղա</p>",
+				"text_trans": "/tgha/ boy"
+			}]
+		}
+	}, {
+		"images": {
+			"item": [{
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/t_.png",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/t.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/T.mp4",
+				"text": "Տ տ",
+				"text_trans": "/t/"
+			}, {
+				"image": {
+					"file": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/images/15.jpg",
+					"audio": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/audio/15.mp3"
+				},
+				"video": "https://www.avc-agbu.org/edu/avc_json_editor/AL_102/Lesson_1/1/video/15.mp4",
+				"text": "<p><font color=\"#c10300\">տ</font>ա<font color=\"#c10300\">տ</font></p>",
+				"text_trans": "/tat/ grandmother"
+			}]
+		}
+	}]
+}
