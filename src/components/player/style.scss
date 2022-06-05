@@ -1,0 +1,49 @@
+.player {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 40px;
+
+    .letter-info,
+    .item-info {
+        width: calc(50% - 20px);
+        margin-bottom: 20px;
+
+        > video {
+            width: 100%;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            background-color: white;
+        }
+
+        > .text-block {
+            &:hover {
+                > h4 {
+                    display: none;
+
+                    &.trans {
+                        display: block;
+                    }
+                }
+            }
+
+            > h4 {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                text-align: center;
+                margin: 0;
+                color: white;
+                font-size: 24px;
+
+                > p {
+                    margin: 0;
+                }
+
+                &.trans { display: none; }
+            }
+        }
+    }
+}

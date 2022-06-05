@@ -1,0 +1,43 @@
+<div class="player">
+    <div class="letter-info" *ngIf="letterInfo">
+        <video [poster]="letterInfo.poster" [src]="letterInfo.video" (click)="playVideo($event, letterAudioRef)"
+            (mouseout)="returnPoster($event)">
+        </video>
+
+        <audio #letterAudio [src]="letterInfo.audio"></audio>
+
+        <div class="text-block">
+            <h4 [innerHtml]="letterInfo.text"></h4>
+            <h4 [innerHtml]="letterInfo.trans" class="trans">{{letterInfo.trans}}</h4>
+        </div>
+    </div>
+
+    <div class="item-info" *ngIf="itemInfo">
+        <video [poster]="itemInfo.poster" [src]="itemInfo.video" (click)="playVideo($event, itemAudioRef)"
+            (mouseout)="returnPoster($event)">
+        </video>
+
+        <audio #itemAudio [src]="itemInfo.audio"></audio>
+
+        <div class="text-block">
+            <h4 [innerHtml]="itemInfo.text"></h4>
+            <h4 [innerHtml]="itemInfo.trans" class="trans"></h4>
+        </div>
+    </div>
+
+    <circle-progress
+        [percent]="filledPercent"
+        [radius]="50"
+        [outerStrokeWidth]="8"
+        [innerStrokeWidth]="8"
+        innerStrokeColor="#ccc"
+        [space]="-8"
+        outerStrokeColor="#78C000"
+        [animation]="true"
+        [animationDuration]="300"
+        titleColor="white"
+        unitsColor="white"
+        backgroundStroke="gray"
+        [showSubtitle]="false">
+    </circle-progress>
+</div>

@@ -1,9 +1,12 @@
 import { Component } from '@angular/core';
 
+import Data from '../../assets/data.json';
+
 @Component({
-  selector: 'app-root',
+  selector: 'app-header',
   templateUrl: './template.html',
   styleUrls: ['./style.scss']
 })
-export class AppComponent {
+export class AppHeader {
+  title = Data.title;
 }

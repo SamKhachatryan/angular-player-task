@@ -1,0 +1,10 @@
+footer {
+    border-top: 1px solid white;
+    padding: 5px 0;
+
+    > p {
+        color: var(--text-white);
+        margin: 0;
+        font-weight: 300;
+    }
+}
